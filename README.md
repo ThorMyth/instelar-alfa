@@ -22,7 +22,7 @@ Uma placa NVIDIA com 4 GB ou mais deixa tudo mais rápido, mas não é obrigató
 
 1. Baixe o instalador (cerca de 650 MB) na [página da versão mais recente](https://github.com/ThorMyth/instelar-alfa/releases/latest): é o arquivo `Instelar-…-setup.exe`. Depois, abra.
 2. O Windows vai avisar que protegeu o computador, porque esta versão ainda não tem assinatura digital. Clique em **Mais informações** e depois em **Executar assim mesmo**.
-3. Siga o instalador. Ele leva cerca de 2 minutos.
+3. Clique em **Instalar** e, no fim, em **Concluir**. Leva cerca de 3 minutos.
 4. Na primeira abertura, o app pergunta como processar os vídeos:
    - **Com a placa NVIDIA** baixa cerca de 10 GB;
    - **Só com a CPU** baixa cerca de 5 GB.
@@ -85,7 +85,7 @@ Vídeos, projetos, senhas e chaves não vão.
 
 ## Atualizações e desinstalar
 
-**Versão nova:** se aparecer **Reiniciar para atualizar** na barra superior, clique quando puder. O app fecha, instala e abre de novo, e os projetos ficam como estão. Costuma levar 2 minutos. Com um jogo ou um antivírus aberto, pode levar alguns minutos a mais. Se aparecer um aviso de que o app não pôde ser fechado, feche o jogo e clique para tentar de novo, ou cancele: o app volta na versão antiga e tenta de novo depois.
+**Versão nova:** se aparecer **Reiniciar para atualizar** na barra superior, clique quando puder. O app fecha, instala e abre de novo sem você clicar em nada, e os projetos ficam como estão. Costuma levar de 2 a 4 minutos. Com um jogo ou um antivírus aberto, pode levar alguns minutos a mais. Se aparecer um aviso de que o app não pôde ser fechado, feche o jogo e clique para tentar de novo, ou cancele: o app volta na versão antiga e tenta de novo depois.
 
 **Para tirar o app:** use **Configurações do Windows → Aplicativos**. Para liberar também o espaço da análise de vídeo (5 a 10 GB), apague a pasta `%LOCALAPPDATA%\Instelar`. Seus projetos ficam na pasta que você escolheu ao instalar (por padrão, `Vídeos\Instelar`).
 
