@@ -34,13 +34,17 @@ Uma placa NVIDIA com 4 GB ou mais deixa tudo mais rápido, mas não é obrigató
 
 1. Em **Novo projeto**, dê um nome, escolha **9:16** e crie o projeto.
 2. Na aba **Mídia**, clique em **Importar…** (ou solte o vídeo na janela). Espere as análises: os selos ao lado do arquivo mostram o que já ficou pronto.
-3. Na aba **Chat**, peça:
+3. Na aba **Chat**, peça tudo numa mensagem só, do jeito que você falaria:
 
-   > Faz um Reel de até 45 s com a melhor parte desse vídeo, com legenda e sem as pausas longas.
+   > Faz um Reel de até 45 s com a melhor parte desse vídeo, com legenda amarela no meio da tela, sem as pausas longas e com uma música calma baixinha.
+
+   O agente monta um plano com cada item que você pediu e confere um por um antes de terminar. Ele corta seco (sem transição nem efeito entre os cortes), a menos que você peça.
 
 4. Acompanhe. O agente leva alguns minutos e mostra o que está fazendo. No fim, aparece um cartão com o resumo e os pontos para você conferir.
 5. Assista no preview. Gostou, clique em **Aplicar**. Não gostou, clique em **Descartar**, ou peça a mudança no chat.
-6. Clique em **⬆ Exportar** (no alto, à direita), marque **Reels** e clique em **Exportar**. O arquivo fica na pasta `exports` do projeto.
+6. Clique em **⬆ Exportar** (no alto, à direita), escolha **Reels, TikTok e Shorts** (um arquivo que serve nas três) e clique em **Exportar**. O arquivo fica na pasta `exports` do projeto. As outras opções (várias sequências, só uma rede, a legenda em arquivo) ficam em **Mais opções**.
+
+**Para navegar:** `Home` e `End` (ou ⏮ e ⏭ embaixo do vídeo) levam ao começo e ao fim; `+` e `-` dão zoom em volta da agulha. Os botões **+ @0:15** e **+ seleção** no chat mandam o momento ou os clipes marcados junto com o pedido: ficam desligados até você ligar.
 
 ## O que testar
 
@@ -52,7 +56,9 @@ Faça o que fizer sentido para os seus vídeos. Se puder, use um vídeo diferent
 | Vários cortes | "Acha os 3 melhores momentos e faz um Short de cada" |
 | Ajustes depois | "Deixa a legenda maior", "tira a parte em que eu falo do preço", "começa direto na frase da pergunta" |
 | Som | "Melhora o som da minha voz", "tira os silêncios e os 'é...'" |
-| Visual | "Põe um título no começo", "dá um zoom quando eu falar o número", "acerta a cor" |
+| Visual | "Põe um título no começo", "dá um zoom quando eu falar o número", "acerta a cor" (cor estourada ele corrige sozinho; para uma cor só: "tira um pouco do vermelho") |
+| Da internet | "Põe o logo do Nubank no canto", "coloca um som de whoosh na entrada do título", "uma foto de grãos de café quando eu falar do café". As imagens e sons vêm do Openverse, com licença livre; o que pede crédito vai num arquivo `.creditos.txt` ao lado do vídeo exportado. Dá para desligar em ⚙ › Internet |
+| Versões | "Me mostra 3 estilos de legenda". Uma barra **Versões** aparece em cima do vídeo: clique em cada uma para ver e em **Escolher esta** |
 | Editar pelo texto | Na aba **Texto**, clique na primeira palavra, `Shift`+clique na última e aperte `Delete` para cortar. `Enter` sobre o trecho riscado traz de volta |
 | Mexer à mão | Arraste as bordas de um clipe na timeline. `Ctrl+Z` desfaz tudo, inclusive o que o agente fez |
 
