@@ -42,9 +42,16 @@ Uma placa NVIDIA com 4 GB ou mais deixa tudo mais rápido, mas não é obrigató
 
 4. Acompanhe. O agente leva alguns minutos e mostra o que está fazendo. No fim, aparece um cartão com o resumo e os pontos para você conferir.
 5. Assista no preview. Gostou, clique em **Aplicar**. Não gostou, clique em **Descartar**, ou peça a mudança no chat.
-6. Clique em **⬆ Exportar** (no alto, à direita), escolha **Reels, TikTok e Shorts** (um arquivo que serve nas três) e clique em **Exportar**. O arquivo fica na pasta `exports` do projeto. As outras opções (várias sequências, só uma rede, a legenda em arquivo) ficam em **Mais opções**.
+6. Clique em **⬆ Exportar** (no alto, à direita), escolha **Reels, TikTok e Shorts** (um arquivo que serve nas três) e clique em **Exportar**. A tela mostra onde o vídeo vai ficar e, no fim, **▶ Abrir o vídeo** e **Mostrar na pasta**. As outras opções (várias sequências, só uma rede, a legenda em arquivo) ficam em **Mais opções**.
 
 **Para navegar:** `Home` e `End` (ou ⏮ e ⏭ embaixo do vídeo) levam ao começo e ao fim; `+` e `-` dão zoom em volta da agulha. Os botões **+ @0:15** e **+ seleção** no chat mandam o momento ou os clipes marcados junto com o pedido: ficam desligados até você ligar.
+
+## Onde ficam o vídeo e o projeto
+
+- **O projeto se salva sozinho**, a cada mudança: não existe botão de salvar. Cada projeto é uma pasta em `Vídeos\Instelar`, com o nome dele e `.instelar` no fim (por exemplo, `Vídeos\Instelar\Rotina da manhã.instelar`).
+- **O vídeo exportado** fica dentro dela, na pasta `exports` (`Vídeos\Instelar\Rotina da manhã.instelar\exports`). Para achar rápido: **Mostrar na pasta**, no fim do export ou em **⬆ Exportações** no alto; ou clique no nome do projeto, no alto à esquerda, e em **Abrir a pasta dos vídeos exportados**.
+- **Para voltar a um projeto:** abra o app. A tela inicial mostra todos os seus projetos, do mais recente para o mais velho; clique no que quiser. Se ele estiver em outra pasta, use **Abrir outro projeto…** e escolha a pasta dele (a que termina em `.instelar`).
+- O vídeo que você importou não é copiado para o projeto: o projeto aponta para ele. Se você mover ou apagar o vídeo original, o projeto perde esse arquivo.
 
 ## O que testar
 
@@ -91,7 +98,7 @@ Vídeos, projetos, senhas e chaves não vão.
 
 ## Atualizações e desinstalar
 
-**Versão nova:** se aparecer **Reiniciar para atualizar** na barra superior, clique quando puder. O app fecha, instala e abre de novo sem você clicar em nada, e os projetos ficam como estão. Costuma levar de 2 a 4 minutos. Com um jogo ou um antivírus aberto, pode levar alguns minutos a mais. Se aparecer um aviso de que o app não pôde ser fechado, feche o jogo e clique para tentar de novo, ou cancele: o app volta na versão antiga e tenta de novo depois.
+**Versão nova:** o app procura sozinho ao abrir e a cada hora e vai sempre direto para a versão mais nova, qualquer que seja a sua, baixando só o que mudou. Quando ela fica pronta, aparece o botão verde **Atualizar agora**, no alto ou na tela inicial (até a alpha.5, ele se chamava **Reiniciar para atualizar**). Clique quando puder: o app fecha, instala e abre de novo sozinho, em 2 a 4 minutos, e os projetos ficam como estão. Depois de cada atualização, aparece uma tela com as novidades: o que mudou desde a sua versão. Para ver de novo, clique em **Novidades**, no rodapé da tela inicial. Se você não clicar, a versão nova instala quando você fechar o app. Para procurar na hora, use **Procurar atualizações**, no rodapé da tela inicial ou em ⚙ › Sobre. Com um jogo ou um antivírus aberto, a instalação pode levar alguns minutos a mais; se não der, o app abre na versão antiga e tenta de novo depois.
 
 **Para tirar o app:** use **Configurações do Windows → Aplicativos**. Para liberar também o espaço da análise de vídeo (5 a 10 GB), apague a pasta `%LOCALAPPDATA%\Instelar`. Seus projetos ficam na pasta que você escolheu ao instalar (por padrão, `Vídeos\Instelar`).
 
