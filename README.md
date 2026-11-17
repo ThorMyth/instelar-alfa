@@ -59,15 +59,17 @@ Faça o que fizer sentido para os seus vídeos. Se puder, use um vídeo diferent
 
 | Experimente | Exemplo de pedido |
 |---|---|
-| Stories | "Transforma em Stories com a parte mais interessante, em partes de até 60 s" |
+| Stories | "Faz um Story com o melhor momento" (sai um trecho de até 30 s; "em 10 segundos" para um mais curto; "o vídeo inteiro nos Stories" manda tudo, em partes de até 60 s) |
 | Vários cortes | "Acha os 3 melhores momentos e faz um Short de cada" |
 | Ajustes depois | "Deixa a legenda maior", "tira a parte em que eu falo do preço", "começa direto na frase da pergunta" |
 | Som | "Melhora o som da minha voz", "tira os silêncios e os 'é...'" |
 | Visual | "Põe um título no começo", "dá um zoom quando eu falar o número", "acerta a cor" (cor estourada ele corrige sozinho; para uma cor só: "tira um pouco do vermelho") |
 | Da internet | "Põe o logo do Nubank no canto", "coloca um som de whoosh na entrada do título", "uma foto de grãos de café quando eu falar do café". As imagens e sons vêm do Openverse, com licença livre; o que pede crédito vai num arquivo `.creditos.txt` ao lado do vídeo exportado. Dá para desligar em ⚙ › Internet |
+| Criar | Com o ChatGPT (o Codex) no chat: "cria uma figurinha de uma xícara de café e põe no canto". A imagem é gerada na sua conta do ChatGPT e fica na pasta do projeto |
+| Cabelo | Selecione um clipe e, no **Inspector**, seção **Cabelo**, clique em **Tirar o frizz** (ou peça "tira o frizz do cabelo"). Funciona melhor com fundo liso |
 | Versões | "Me mostra 3 estilos de legenda". Uma barra **Versões** aparece em cima do vídeo: clique em cada uma para ver e em **Escolher esta** |
 | Editar pelo texto | Na aba **Texto**, clique na primeira palavra, `Shift`+clique na última e aperte `Delete` para cortar. `Enter` sobre o trecho riscado traz de volta |
-| Mexer à mão | Arraste as bordas de um clipe na timeline. `Ctrl+Z` desfaz tudo, inclusive o que o agente fez |
+| Mexer à mão | Os atalhos são os do Premiere (o botão **⌨ Atalhos**, embaixo do vídeo, mostra todos): `Ctrl+K` corta no playhead, `C` é a navalha, `Shift+Delete` apaga e junta. A barra em cima da timeline tem **Cortar**, **Apagar** e **Apagar e juntar**. Arraste as bordas de um clipe para aparar. `Ctrl+Z` desfaz tudo, inclusive o que o agente fez |
 
 **O que mais ajuda saber:**
 - O resultado ficou bom o bastante para postar? Se não, o que faltou?
