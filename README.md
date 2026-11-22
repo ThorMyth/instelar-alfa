@@ -49,7 +49,7 @@ Uma placa NVIDIA com 4 GB ou mais deixa tudo mais rápido, mas não é obrigató
 ## Onde ficam o vídeo e o projeto
 
 - **O projeto se salva sozinho**, a cada mudança: não existe botão de salvar. Cada projeto é uma pasta em `Vídeos\Instelar`, com o nome dele e `.instelar` no fim (por exemplo, `Vídeos\Instelar\Rotina da manhã.instelar`).
-- **O vídeo exportado** fica dentro dela, na pasta `exports` (`Vídeos\Instelar\Rotina da manhã.instelar\exports`). Para achar rápido: **Mostrar na pasta**, no fim do export ou em **⬆ Exportações** no alto; ou clique no nome do projeto, no alto à esquerda, e em **Abrir a pasta dos vídeos exportados**.
+- **O vídeo exportado** fica dentro dela, na pasta `exports` (`Vídeos\Instelar\Rotina da manhã.instelar\exports`). Para achar rápido: **⬆ Exportações**, no alto, lista todos os vídeos exportados do projeto, mesmo depois de fechar o app, com **▶ Abrir o vídeo** e **Mostrar na pasta**; ou clique no nome do projeto, no alto à esquerda, e em **Abrir a pasta dos vídeos exportados**. Exportar de novo um vídeo que não mudou devolve o mesmo arquivo na hora.
 - **Para voltar a um projeto:** abra o app. A tela inicial mostra todos os seus projetos, do mais recente para o mais velho; clique no que quiser. Se ele estiver em outra pasta, use **Abrir outro projeto…** e escolha a pasta dele (a que termina em `.instelar`).
 - O vídeo que você importou não é copiado para o projeto: o projeto aponta para ele. Se você mover ou apagar o vídeo original, o projeto perde esse arquivo.
 
@@ -68,6 +68,10 @@ Faça o que fizer sentido para os seus vídeos. Se puder, use um vídeo diferent
 | Criar | Com o ChatGPT (o Codex) no chat: "cria uma figurinha de uma xícara de café e põe no canto". A imagem é gerada na sua conta do ChatGPT e fica na pasta do projeto |
 | Cabelo | Selecione um clipe e, no **Inspector**, seção **Cabelo**, clique em **Tirar o frizz** (ou peça "tira o frizz do cabelo"). Funciona melhor com fundo liso |
 | Versões | "Me mostra 3 estilos de legenda". Uma barra **Versões** aparece em cima do vídeo: clique em cada uma para ver e em **Escolher esta** |
+| Antes e depois | Depois de uma edição da IA, **Antes│Depois** embaixo do vídeo (ou `Shift+\`) mostra como estava; `\` alterna |
+| Legenda à mão | Na aba **Legendas**, dê dois cliques numa página (ou na legenda em cima do vídeo) para corrigir o texto e aperte `Enter`. Ali também ficam os estilos (clique num deles: Caixa na palavra, Palavra pulando, Neon…), a cor, o tamanho e a posição (Em cima, No meio, Embaixo); escolha palavras e clique em **Destacar**. Ou peça: "coloca uma legenda moderna" |
+| Títulos e artes | "Põe o título '3 erros da rotina' no centro com a palavra erros em destaque", "uma manchete no começo", "mostra a pergunta da Maria num balão" |
+| Onde salvar | No export, **Trocar pasta…** escolhe a pasta; o app lembra a de cada projeto |
 | Editar pelo texto | Na aba **Texto**, clique na primeira palavra, `Shift`+clique na última e aperte `Delete` para cortar. `Enter` sobre o trecho riscado traz de volta |
 | Mexer à mão | Os atalhos são os do Premiere (o botão **⌨ Atalhos**, embaixo do vídeo, mostra todos): `Ctrl+K` corta no playhead, `C` é a navalha, `Shift+Delete` apaga e junta. A barra em cima da timeline tem **Cortar**, **Apagar** e **Apagar e juntar**. Arraste as bordas de um clipe para aparar. `Ctrl+Z` desfaz tudo, inclusive o que o agente fez |
 
