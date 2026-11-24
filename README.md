@@ -72,6 +72,7 @@ Faça o que fizer sentido para os seus vídeos. Se puder, use um vídeo diferent
 | Antes e depois | Depois de uma edição da IA, **Antes│Depois** embaixo do vídeo (ou `Shift+\`) mostra como estava; `\` alterna |
 | Legenda à mão | Na aba **Legendas**, dê dois cliques numa página (ou na legenda em cima do vídeo) para corrigir o texto e aperte `Enter`. Ali também ficam os estilos (clique num deles: Caixa na palavra, Palavra pulando, Neon…), a cor, o tamanho e a posição (Em cima, No meio, Embaixo); escolha palavras e clique em **Destacar**. Ou peça: "coloca uma legenda moderna" |
 | Títulos e artes | "Põe o título '3 erros da rotina' no centro com a palavra erros em destaque", "uma manchete no começo", "mostra a pergunta da Maria num balão" |
+| Explicações | Ao lado de muitas opções há um **ⓘ**: passe o mouse (ou clique) para ver o que a opção faz |
 | Aparência | Em ⚙ Configurações › **Aparência**, escolha a cor do app (Azul, Violeta, Rosa, Verde-água, Âmbar, Coral, Prata) e quanto o céu se mexe (**Efeitos**: Automático, Completos, Leves, Mínimos). Num computador mais lento, **Leves** ou **Mínimos** deixam tudo mais leve |
 | Onde salvar | No export, em **Onde salvar**: o nome do arquivo e **Escolher pasta…** (o app lembra a de cada projeto), ou **Salvar como…** para escolher tudo na janela do Windows. **Perguntar onde salvar a cada export** faz o app perguntar sempre |
 | Editar pelo texto | Na aba **Texto**, clique na primeira palavra, `Shift`+clique na última e aperte `Delete` para cortar. `Enter` sobre o trecho riscado traz de volta |
