@@ -20,7 +20,7 @@ Uma placa NVIDIA com 4 GB ou mais deixa tudo mais rápido, mas não é obrigató
 
 ## Instalar
 
-1. Baixe o instalador (cerca de 650 MB) na [página da versão mais recente](https://github.com/ThorMyth/instelar-alfa/releases/latest): é o arquivo `Instelar-…-setup.exe`. Depois, abra.
+1. Baixe o instalador (cerca de 550 MB) na [página da versão mais recente](https://github.com/ThorMyth/instelar-alfa/releases/latest): é o arquivo `Instelar-…-setup.exe`. Depois, abra.
 2. O Windows vai avisar que protegeu o computador, porque esta versão ainda não tem assinatura digital. Clique em **Mais informações** e depois em **Executar assim mesmo**.
 3. Clique em **Instalar** e, no fim, em **Concluir**. Leva cerca de 3 minutos.
 4. Na primeira abertura, o app pergunta como processar os vídeos:
@@ -41,8 +41,10 @@ Uma placa NVIDIA com 4 GB ou mais deixa tudo mais rápido, mas não é obrigató
    O agente monta um plano com cada item que você pediu e confere um por um antes de terminar. Os cortes saem com o **corte suave** (uma fusão bem curta, com o som sem estalo); efeitos entre os cortes, só se você pedir. Quer o corte seco? Diga "sem transição", ou escolha em ⚙ Configurações › Comportamento › **Cortes**.
 
 4. Acompanhe. O agente leva alguns minutos e mostra o que está fazendo. No fim, aparece um cartão com o resumo e os pontos para você conferir.
-5. Assista no preview. Gostou, clique em **Aplicar**. Não gostou, clique em **Descartar**, ou peça a mudança no chat.
+5. Assista no preview: a edição já está no vídeo. Gostou, clique em **✓ Manter**. Não gostou, clique em **↶ Desfazer**, ou peça a mudança no chat. **Antes│Depois** mostra como era.
 6. Clique em **⬆ Exportar** (no alto, à direita), escolha **Reels, TikTok e Shorts** (um arquivo que serve nas três) e clique em **Exportar**. A tela mostra onde o vídeo vai ficar e, no fim, **▶ Abrir o vídeo** e **Mostrar na pasta**. As outras opções (várias sequências, só uma rede, a legenda em arquivo) ficam em **Mais opções**.
+
+**Pedidos grandes e arquivos:** para um pedido longo (um roteiro, um briefing), cole o texto no chat: ele vira um cartão acima do campo. Para mandar arquivos junto, use o **📎**, solte os arquivos em cima do chat ou cole um print: entram texto, código (por exemplo, um HTML com um efeito que você quer no vídeo), imagem, vídeo e áudio. As imagens a IA vê, e elas vão para a sua Mídia. O **⤢** abre um editor grande para escrever com calma.
 
 **Para navegar:** `Home` e `End` (ou ⏮ e ⏭ embaixo do vídeo) levam ao começo e ao fim; `+` e `-` dão zoom em volta da agulha. Os botões **+ @0:15** e **+ seleção** no chat mandam o momento ou os clipes marcados junto com o pedido: ficam desligados até você ligar.
 
